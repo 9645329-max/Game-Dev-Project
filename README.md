@@ -5,4 +5,4 @@ Team Members: <br>
 - Torr Hardin, Group Leader, Coder, Sound Design <br>
 - Janame Lindberg, Graphic Designer, Coder <br>
   <br>
-  ![Prison Mockup]([Prison Escape Diagram.drawio.png)
+  ![Prison Mockup]([https://github.com/9645329-max/Game-Dev-Project/blob/main/images/Prison%20Escape%20Diagram)
