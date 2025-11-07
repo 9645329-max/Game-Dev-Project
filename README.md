@@ -25,4 +25,5 @@ Dec 19th <br>
 Finishing anything that is low quality and polishing the game  <br>
 <br>
 Prison Size and Dimiensions: <br>
-  ![Prison Mockup](https://github.com/9645329-max/Game-Dev-Project/blob/main/images/Prison%20Mockup.png) 
+  ![Prison Mockup](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9ee7f591-069c-4f0f-8701-2c07486e32a6" />
+) 
