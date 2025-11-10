@@ -6,7 +6,7 @@ Team Members: <br>
 - Janame Lindberg, Graphic Designer, Coder <br>
   <br>
   ## Diagram of Game Features: <br>
-<img width="1228" height="786" alt="image" src="https://github.com/user-attachments/assets/913f3f0a-31e6-4d6e-8f93-d16a556dd795" />
+
 
 <br>
 Timeline: <br>
