@@ -10,7 +10,8 @@ Team Members: <br>
   
 Diagram of Game Features: <br>
   
-<img src="github.com/9645329-max/portfolio/blob/main/images/Gameplay.png" />
+<img src="https://raw.githubusercontent.com/9645329-max/portfolio/main/images/Gameplay.png
+" />
 
 
 <br>
